@@ -1,0 +1,357 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Das Output-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Output-Verzeichnisses erforderlich ist.
+  aimbot.cpp
+  bonesetup.cpp
+  button.cpp
+  callbacks.cpp
+  chams.cpp
+  checkbox.cpp
+  client.cpp
+  clientstate.cpp
+  colorpicker.cpp
+  config.cpp
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  edit.cpp
+  events.cpp
+  firebullets.cpp
+  game_movement.cpp
+  grenade_path.cpp
+  keybind.cpp
+  matchframework.cpp
+  materialsystem.cpp
+  networking.cpp
+  SendNetMsg.cpp
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „colorpicker.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „checkbox.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „game_movement.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „chams.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „config.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „aimbot.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „bonesetup.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „events.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „clientstate.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „grenade_path.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „button.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „client.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „edit.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „firebullets.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „callbacks.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „keybind.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „matchframework.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „materialsystem.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „networking.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „SendNetMsg.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\aimbot.cpp(1060,24): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\chams.cpp(100,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  server_sound.cpp
+  shadowmgr.cpp
+  csgo.cpp
+  cvar.cpp
+  modelrender.cpp
+  dropdown.cpp
+  entry.cpp
+  form.cpp
+  grenades.cpp
+  gui.cpp
+  hooks.cpp
+  hvh.cpp
+  engine.cpp
+  knifebot.cpp
+  lagcomp.cpp
+  clientdll.cpp
+  shots.cpp
+  skins.cpp
+  surface.cpp
+  math.cpp
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „shadowmgr.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „server_sound.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „dropdown.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „csgo.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „gui.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „cvar.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „modelrender.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „entry.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „form.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „hooks.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „grenades.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „hvh.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „engine.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „lagcomp.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „knifebot.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „clientdll.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „shots.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „skins.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „surface.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „math.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+  movement.cpp
+  multidropdown.cpp
+  netdata.cpp
+  clientmode.cpp
+  panel.cpp
+  penetration.cpp
+  player.cpp
+  pred.cpp
+  netchannel.cpp
+  render.cpp
+  viewrender.cpp
+  resolver.cpp
+  prediction.cpp
+  renderview.cpp
+  slider.cpp
+  visuals.cpp
+  wndproc.cpp
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „movement.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „netdata.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „multidropdown.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „panel.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „clientmode.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „penetration.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „player.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „pred.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „netchannel.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „render.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „viewrender.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „resolver.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „prediction.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „renderview.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „slider.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „visuals.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8): warning C4099: "studiohdr_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+  (Quelldatei „wndproc.cpp“ wird kompiliert)
+      C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\studio.h(33,8):
+      Siehe Deklaration von "studiohdr_t"
+  
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\penetration.cpp(86,21): warning C4101: "ratio": Unreferenzierte lokale Variable
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\penetration.cpp(86,28): warning C4101: "new_damage": Unreferenzierte lokale Variable
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\penetration.cpp(86,8): warning C4101: "heavy_ratio": Unreferenzierte lokale Variable
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\penetration.cpp(351,125): warning C4101: "damage_lost": Unreferenzierte lokale Variable
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\visuals.cpp(660,8): warning C4101: "valid_player_hit": Unreferenzierte lokale Variable
+C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\visuals.cpp(1677,19): warning C4101: "mode_3d": Unreferenzierte lokale Variable
+  supremacy_csgo.vcxproj -> C:\Users\incsk\Downloads\eax vaper buidl\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\batmanbuild-d51d0a075f46ea620dccb30c0bf7399af53060ff\output\eax.dll
